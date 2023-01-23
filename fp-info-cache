@@ -1,4 +1,4 @@
-13393399978247
+18417726222094
 project_library
 1043
 1043
@@ -34,6 +34,27 @@ esp32-s3
 0
 49
 41
+project_library
+JZ300
+JZ300-3
+Capacitor
+0
+2
+2
+project_library
+MAX19506ETM+
+48 TQFN T4877+4
+Integrated Circuit
+0
+49
+49
+project_library
+MCP6S91-E_MS
+8 Lead MSOP
+Integrated Circuit
+0
+8
+8
 project_library
 SW_TS-1187A-B-A-B
 

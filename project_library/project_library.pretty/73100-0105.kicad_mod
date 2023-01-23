@@ -28,7 +28,7 @@
   (pad "2" thru_hole circle (at 3.8 -17.6) (size 2.8 2.8) (drill 1.9) (layers *.Cu *.Mask) (tstamp e7db3fdb-6936-4c29-acec-7ef20197785d))
   (pad "3" thru_hole circle (at 0 -25.4) (size 1.55 1.55) (drill 1.02) (layers *.Cu *.Mask) (tstamp a5f946b9-5c2c-4897-b9ef-6f5801990472))
   (model "${KIPRJMOD}/project_library/project_3dmodels/73100-0105.stp"
-    (offset (xyz 0 12.96 4.9))
+    (offset (xyz 0 12.96 3.3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
