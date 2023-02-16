@@ -5114,7 +5114,7 @@
       (reference "C?") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/8af304ee-0508-4120-992c-cb51500029d0/4ecfd503-f9df-493b-93f8-5c058e6778ec"
-      (reference "D?") (unit 1) (value "D3.3V") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "D?") (unit 1) (value "3.3V") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/3dee18c4-b720-444d-9268-9c64f3e51ed3/738844f8-2426-4499-ad1d-a67e84626e1a"
       (reference "D?") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -5132,7 +5132,7 @@
       (reference "D?") (unit 1) (value "LOW_BATTERY") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/8af304ee-0508-4120-992c-cb51500029d0/f2e55f50-ce1a-4b1d-8250-34fcc40337a5"
-      (reference "D?") (unit 1) (value "A3.3V") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "D?") (unit 1) (value "3.3VA") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/9fc67474-9aaf-49e9-80f8-163f002891ea"
       (reference "IC3") (unit 1) (value "USBLC6-2SC6") (footprint "project_library:USBLC6-2SC6")
@@ -5265,6 +5265,21 @@
     )
     (path "/8af304ee-0508-4120-992c-cb51500029d0/642728c3-e383-477a-bdcf-ec52acd418da"
       (reference "SW?") (unit 1) (value "SW_DPDT_x2") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+    )
+    (path "/8af304ee-0508-4120-992c-cb51500029d0/2b96709c-f056-43d3-a6f9-7c572518eb51"
+      (reference "TP?") (unit 1) (value "3.3V") (footprint "")
+    )
+    (path "/8af304ee-0508-4120-992c-cb51500029d0/415cf842-5bf5-46e2-abaf-a66617bac3ca"
+      (reference "TP?") (unit 1) (value "VBat") (footprint "")
+    )
+    (path "/8af304ee-0508-4120-992c-cb51500029d0/49da0a13-a63c-4a3e-8c42-ced96d2fec68"
+      (reference "TP?") (unit 1) (value "VBatChargeIC") (footprint "")
+    )
+    (path "/8af304ee-0508-4120-992c-cb51500029d0/51c3f0d7-a86a-4105-92ab-95406237f6af"
+      (reference "TP?") (unit 1) (value "3.3VA") (footprint "")
+    )
+    (path "/8af304ee-0508-4120-992c-cb51500029d0/d9ef4035-64b5-443e-98bb-8d4894854368"
+      (reference "TP?") (unit 1) (value "GNDREF") (footprint "")
     )
     (path "/46c71b8c-b6a4-4448-a009-deec2fcb8c51"
       (reference "U3") (unit 1) (value "USB-TYPE-C-018") (footprint "footprint:USB-C_SMD-TYPE-C-31-M-12")
