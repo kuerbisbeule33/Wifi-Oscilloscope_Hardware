@@ -431,6 +431,10 @@
     [
       "8af304ee-0508-4120-992c-cb51500029d0",
       "Power Supply"
+    ],
+    [
+      "57827e05-5bc2-4fd8-89d5-a292512dab24",
+      "Analog"
     ]
   ],
   "text_variables": {}

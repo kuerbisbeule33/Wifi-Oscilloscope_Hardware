@@ -1,4 +1,4 @@
-20184427225367826
+20187780338775704
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85694,6 +85694,13 @@ Integrated Circuit
 17
 17
 project_library
+DAC5571IDBVR
+DBV0006A
+Integrated Circuit
+0
+6
+6
+project_library
 ESP32-S3-WROOM-1
 ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
 esp32-s3
@@ -85742,6 +85749,13 @@ Integrated Circuit
 0
 6
 6
+project_library
+MCP6021-I_SN
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC]
+Integrated Circuit
+0
+8
+8
 project_library
 SW_TS-1187A-B-A-B
 

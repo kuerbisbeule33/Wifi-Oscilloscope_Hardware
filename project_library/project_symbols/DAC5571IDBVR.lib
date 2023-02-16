@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DAC5571IDBVR
+#/561709/931302/2.49/6/3/Integrated Circuit
+DEF DAC5571IDBVR IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "DAC5571IDBVR" 950 200 50 H V L CNN
+F2 "SOT95P280X145-6N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/DAC5571" 950 0 50 H I L CNN
+F4 "Low-power, 8-Bit DAC with high-speed I2C Input" 950 -100 50 H I L CNN "Description"
+F5 "1.45" 950 -200 50 H I L CNN "Height"
+F6 "595-DAC5571IDBVR" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DAC5571IDBVR?qs=vul0MlC%2Fa1d8ma5XBaLG%252Bg%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "DAC5571IDBVR" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VOUT 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X VDD 3 0 -200 200 R 50 50 0 0 P
+X A0 6 1100 0 200 L 50 50 0 0 P
+X SCL 5 1100 -100 200 L 50 50 0 0 P
+X SDA 4 1100 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
