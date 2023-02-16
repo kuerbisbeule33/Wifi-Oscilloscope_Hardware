@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP MCP6022T-I_SN
+D MCP6022T-I/SN Microchip Technology, CMOS, Op Amp, 10MHz, 8-Pin SOIC
+K
+F http://ww1.microchip.com/downloads/en/devicedoc/20001685e.pdf
+$ENDCMP
+#
+#End Doc Library
