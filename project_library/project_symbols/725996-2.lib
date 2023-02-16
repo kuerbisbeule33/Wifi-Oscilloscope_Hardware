@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 725996-2
+#/654548/931302/2.49/2/2/Undefined or Miscellaneous
+DEF 725996-2 U 0 30 Y Y 1 F N
+F0 "U" 650 300 50 H V L CNN
+F1 "725996-2" 650 200 50 H V L CNN
+F2 "7259962" 650 100 50 H I L CNN
+F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Catalog+Section%7F82159_PCB_TERMINALS_AND_DISCONNECTS%7F1207%7Fpdf%7FEnglish%7FENG_CS_82159_PCB_TERMINALS_AND_DISCONNECTS_1207.pdf%7F725996-2" 650 0 50 H I L CNN
+F4 "AMP - TE CONNECTIVITY - 725996-2 - TAB 2, 8X0, 5 FOR PCB" 650 -100 50 H I L CNN "Description"
+F5 "8" 650 -200 50 H I L CNN "Height"
+F6 "571-725996-2" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/725996-2?qs=qCxwlXJ4fnwSyI%252Bf7tGybA%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "TE Connectivity" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "725996-2" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
