@@ -1,4 +1,4 @@
-20187780338775704
+20191133605568041
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85659,6 +85659,13 @@ Undefined or Miscellaneous
 5
 5
 project_library
+25136NAH6
+25136NAH
+Switch
+0
+3
+3
+project_library
 73100-0105
 73100-0105
 Connector
@@ -85736,6 +85743,13 @@ Integrated Circuit
 3
 3
 project_library
+MAX17048G+T10
+TDFN+EP[T822-3] (21-0168)
+Integrated Circuit
+0
+9
+9
+project_library
 MCP6S91-E_MS
 8 Lead MSOP
 Integrated Circuit
@@ -85750,8 +85764,8 @@ Integrated Circuit
 6
 6
 project_library
-MCP6021-I_SN
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC]
+MCP6022T-I_SN
+(OA) – Narrow, 3.90 mm Body [SOIC]
 Integrated Circuit
 0
 8

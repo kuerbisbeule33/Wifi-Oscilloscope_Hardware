@@ -1,5 +1,5 @@
 (module "SOIC127P600X175-8N" (layer F.Cu)
-  (descr "8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC]")
+  (descr "(OA) – Narrow, 3.90 mm Body [SOIC]")
   (tags "Integrated Circuit")
   (attr smd)
   (fp_text reference IC** (at 0 0) (layer F.SilkS)
@@ -33,7 +33,7 @@
   (pad 6 smd rect (at 2.7 0.635 90) (size 0.65 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 2.7 -0.635 90) (size 0.65 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 2.7 -1.905 90) (size 0.65 1.5) (layers F.Cu F.Paste F.Mask))
-  (model MCP6021-I_SN.stp
+  (model MCP6022T-I_SN.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
