@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.2,
         0.3,
         0.6
       ],
@@ -437,6 +438,10 @@
     [
       "57827e05-5bc2-4fd8-89d5-a292512dab24",
       "Analog"
+    ],
+    [
+      "f0ee80f0-f258-4807-b18b-f799d7f64c1d",
+      "USB and GPIO Expander"
     ]
   ],
   "text_variables": {}
