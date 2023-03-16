@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.2,
-          "width": 0.6
+          "drill": 1.32,
+          "height": 1.98,
+          "width": 1.98
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -100,7 +100,7 @@
         "zones_intersect": "error"
       },
       "rules": {
-        "allow_blind_buried_vias": false,
+        "allow_blind_buried_vias": true,
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.0,
@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.1,
         0.2,
         0.3,
         0.6
@@ -128,6 +129,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false,
